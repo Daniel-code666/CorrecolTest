@@ -24,7 +24,7 @@ services:
       dockerfile: CorrecolTest/Dockerfile
     environment:
       ASPNETCORE_HTTP_PORTS: "8080"
-      ConnectionStrings__DefaultConnection: "Server=db;Database=${APP_DATABASE:-CorrecolTestApp};User Id=sa;Password=${MSSQL_SA_PASSWORD};Encrypt=true;TrustServerCertificate=true"
+      ConnectionStrings__DefaultConnection: "Server=db;Database=${APP_DATABASE:-PruebaTecnicaDMC};User Id=sa;Password=${MSSQL_SA_PASSWORD};Encrypt=true;TrustServerCertificate=true"
       AutoMapper__LicenseKey: "${AUTOMAPPER_LICENSE_KEY:-}"
     ports:
       - "127.0.0.1:${API_PORT:-5080}:8080"

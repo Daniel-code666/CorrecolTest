@@ -1,8 +1,8 @@
 -- 100 clientes ficticios para pruebas. No representan personas ni empresas reales.
 -- Identificaciones sintéticas DEMO-CO-001 a DEMO-CO-100, tipo Nit = 2.
--- Ejecutar sobre CorrecolTestApp. Conserva clientes existentes y omite este lote si ya está insertado.
+-- Ejecutar sobre PruebaTecnicaDMC. Conserva clientes existentes y omite este lote si ya está insertado.
 -- Ubicaciones tomadas del catálogo activo de Colombia (170), distribuidas entre departamentos.
-USE [CorrecolTestApp];
+USE [PruebaTecnicaDMC];
 SET NOCOUNT ON;
 SET XACT_ABORT ON;
 SET TRANSACTION ISOLATION LEVEL SERIALIZABLE;

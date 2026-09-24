@@ -8,7 +8,7 @@ La migración `InitialCreate` crea desde cero las tablas de países, departament
 
 `CatalogSeed` inserta únicamente códigos faltantes, también cuando un catálogo está parcialmente cargado. No sobrescribe registros existentes ni reactiva países, departamentos o ciudades desactivados mediante `Active`. Los callbacks `UseSeeding` y `UseAsyncSeeding` se ejecutan bajo el bloqueo de migración de EF Core y la carga usa una transacción. La fecha de creación de los catálogos representa su importación, pues el backup no contiene fechas históricas de auditoría. La migración `AddCatalogActive` incorpora la eliminación lógica de los catálogos conservando los registros existentes.
 
-La base restaurada `CorrecolTest` se conserva para consulta. La aplicación usa una base independiente, `CorrecolTestApp`, creada por migraciones.
+La base restaurada `CorrecolTest` se conserva para consulta. La aplicación usa una base independiente, `PruebaTecnicaDMC`, creada por migraciones.
 
 ## Docker
 
@@ -30,7 +30,7 @@ FRONTEND_PATH=../Front
 FRONTEND_PORT=4200
 API_PORT=5080
 SQLSERVER_PORT=14333
-APP_DATABASE=CorrecolTestApp
+APP_DATABASE=PruebaTecnicaDMC
 ```
 
 `FRONTEND_PATH` admite una ruta relativa a `compose.yaml` o una ruta absoluta. Para rutas de Windows con espacios, usar barras `/` y comillas simples, por ejemplo `FRONTEND_PATH='C:/Proyectos de trabajo/Front'`. Configurar la ruta real de cada equipo; `../Front` es solo un ejemplo.
@@ -81,7 +81,7 @@ Compose inicia SQL Server y espera su comprobación de disponibilidad antes de a
 La API expone su estado en http://localhost:5080/health. Nginx tiene su propia comprobación en http://localhost:4200/health, que indica la disponibilidad del frontend, sin comprobar la base de datos.
 
 - SQL Server para DBeaver: `localhost:14333`, usuario `sa`, contraseña definida en `.env`.
-- Base de la aplicación: `CorrecolTestApp`. Base del backup conservado: `CorrecolTest`.
+- Base de la aplicación: `PruebaTecnicaDMC`. Base del backup conservado: `CorrecolTest`.
 - Para la conexión local, usar `encrypt=true` y `trustServerCertificate=true`.
 
 `APP_DATABASE` es configurable en `.env`. La cadena de conexión tiene su estructura en `appsettings.json` y Compose la sustituye mediante `ConnectionStrings__DefaultConnection`, utilizando `db` como servidor. `AUTOMAPPER_LICENSE_KEY` permite configurar la licencia de AutoMapper. Las credenciales no se incluyen en el repositorio ni en la imagen.
