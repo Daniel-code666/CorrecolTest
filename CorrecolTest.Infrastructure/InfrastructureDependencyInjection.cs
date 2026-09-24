@@ -14,6 +14,7 @@ public static class InfrastructureDependencyInjection
         services.AddDbContext<CorrecolDbContext>(options => ConfigureDatabase(options, connectionString));
         services.AddScoped<IClienteRepository, ClienteRepository>();
         services.AddScoped<ICatalogoRepository, CatalogoRepository>();
+        services.AddScoped<IWriteTransaction, WriteTransaction>();
         services.AddSingleton<IClienteExcelExporter, ClienteExcelExporter>();
         return services;
     }
@@ -23,4 +24,3 @@ public static class InfrastructureDependencyInjection
             .UseSeeding((db, _) => CatalogSeed.Seed((CorrecolDbContext)db))
             .UseAsyncSeeding((db, _, ct) => CatalogSeed.SeedAsync((CorrecolDbContext)db, ct));
 }
-

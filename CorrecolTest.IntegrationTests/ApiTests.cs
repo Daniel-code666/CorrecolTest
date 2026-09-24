@@ -43,7 +43,7 @@ public class ApiTests(ApiFixture fixture) : IClassFixture<ApiFixture>
         Assert.Equal(246, await db.Paises.CountAsync());
         Assert.Equal(33, await db.Departamentos.CountAsync());
         Assert.Equal(1118, await db.Ciudades.CountAsync());
-        Assert.Single(await db.Database.GetAppliedMigrationsAsync());
+        Assert.Equal(2, (await db.Database.GetAppliedMigrationsAsync()).Count());
         Assert.Empty(await db.Database.GetPendingMigrationsAsync());
         Assert.False(db.Database.HasPendingModelChanges());
         Assert.All(await db.Paises.ToListAsync(), p =>

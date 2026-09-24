@@ -16,7 +16,7 @@ public class ClienteServiceTests
     private readonly Mock<ICatalogoRepository> catalogos = new();
     private readonly Mock<IClienteExcelExporter> exporter = new();
     private readonly IMapper mapper = new MapperConfiguration(c => c.AddProfile<ApplicationProfile>(), NullLoggerFactory.Instance).CreateMapper();
-    private ClienteService Service => new(repository.Object, catalogos.Object, exporter.Object, mapper);
+    private ClienteService Service => new(repository.Object, catalogos.Object, exporter.Object, mapper, new DirectWriteTransaction());
     private static ClienteCreateDto Valid() => new()
     {
         TipoIdentificacion = TipoIdentificacion.Nit,

@@ -20,6 +20,7 @@ public class PaisConfiguration : IEntityTypeConfiguration<Pais>
     public void Configure(EntityTypeBuilder<Pais> b)
     {
         b.ToTable("Pais");
+        b.Property(x => x.Active).HasDefaultValue(true).IsConcurrencyToken();
         b.HasKey(x => x.Codigo);
         b.Property(x => x.Codigo).HasColumnName("PaisCodigo").ValueGeneratedNever();
         b.Property(x => x.Nombre).HasColumnName("PaisNombre").HasMaxLength(100).IsUnicode(false);
@@ -36,6 +37,7 @@ public class DepartamentoConfiguration : IEntityTypeConfiguration<Departamento>
     public void Configure(EntityTypeBuilder<Departamento> b)
     {
         b.ToTable("DepartamentosColombia");
+        b.Property(x => x.Active).HasDefaultValue(true).IsConcurrencyToken();
         b.HasKey(x => x.Codigo);
         b.Property(x => x.Codigo).HasColumnName("DptColCodigoDane").ValueGeneratedNever();
         b.Property(x => x.Nombre).HasColumnName("DptColNombredelDepartamento").HasMaxLength(100).IsUnicode(false);
@@ -52,6 +54,7 @@ public class CiudadConfiguration : IEntityTypeConfiguration<Ciudad>
     public void Configure(EntityTypeBuilder<Ciudad> b)
     {
         b.ToTable("DivisionPoliticaColombia");
+        b.Property(x => x.Active).HasDefaultValue(true).IsConcurrencyToken();
         b.HasKey(x => x.Codigo);
         b.Property(x => x.Codigo).HasColumnName("DvsPltColCodigoDane").ValueGeneratedNever();
         b.Property(x => x.Nombre).HasColumnName("DvsPltColNombreMunicipio").HasMaxLength(100).IsUnicode(false);

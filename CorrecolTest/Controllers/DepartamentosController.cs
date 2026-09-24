@@ -10,6 +10,39 @@ namespace CorrecolTest.Controllers;
 [ProducesResponseType<ProblemDetails>(StatusCodes.Status500InternalServerError)]
 public class DepartamentosController(ICatalogoService service) : ControllerBase
 {
+    /// <summary>Crea un registro activo en el catálogo.</summary>
+    /// <remarks>El código y el país se asignan al crear y no se modifican. La edición cambia el nombre. Active y las fechas de auditoría se asignan automáticamente.</remarks>
+    [HttpPost]
+    [ProducesResponseType<DepartamentoDto>(StatusCodes.Status201Created)]
+    [ProducesResponseType<ProblemDetails>(StatusCodes.Status409Conflict)]
+    public async Task<ActionResult<DepartamentoDto>> Create(DepartamentoCreateDto dto, CancellationToken ct)
+    {
+        var created = await service.CreateDepartamentoAsync(dto, ct);
+        return CreatedAtAction(nameof(GetById), new { codigo = created.Codigo }, created);
+    }
+
+    /// <summary>Actualiza los datos descriptivos de un registro activo.</summary>
+    /// <remarks>El código y el país se asignan al crear y no se modifican. La edición cambia el nombre. No permite reactivar registros.</remarks>
+    [HttpPut("{codigo:int:min(1)}")]
+    [ProducesResponseType<DepartamentoDto>(StatusCodes.Status200OK)]
+    [ProducesResponseType<ProblemDetails>(StatusCodes.Status404NotFound)]
+    [ProducesResponseType<ProblemDetails>(StatusCodes.Status409Conflict)]
+    public async Task<ActionResult<DepartamentoDto>> Update(int codigo, DepartamentoUpdateDto dto, CancellationToken ct) =>
+        Ok(await service.UpdateDepartamentoAsync(codigo, dto, ct));
+
+    /// <summary>Desactiva un registro sin eliminarlo físicamente.</summary>
+    /// <remarks>Devuelve 409 si tiene clientes asociados (incluso inactivos) o hijos activos.
+    /// Un registro ya inactivo devuelve 204 sin cambiar su auditoría. El seed no lo reactiva.</remarks>
+    [HttpDelete("{codigo:int:min(1)}")]
+    [ProducesResponseType(StatusCodes.Status204NoContent)]
+    [ProducesResponseType<ProblemDetails>(StatusCodes.Status404NotFound)]
+    [ProducesResponseType<ProblemDetails>(StatusCodes.Status409Conflict)]
+    public async Task<IActionResult> Delete(int codigo, CancellationToken ct)
+    {
+        await service.DeleteDepartamentoAsync(codigo, ct);
+        return NoContent();
+    }
+
     /// <summary>Consulta departamentos con filtros de código, nombre y ubicación; resultado paginado.</summary>
     /// <remarks>PageNumber inicia en 1; PageSize admite 1–100. Orden ascendente por código.
     /// Para cargar un desplegable completo, conservar el filtro de país y recorrer todas las páginas

@@ -41,6 +41,7 @@ public static class CatalogSeed
     private static void AddMissing<T, TKey>(DbSet<T> set, IEnumerable<T> seed, Func<T, TKey> key)
         where T : class where TKey : notnull
     {
+        // Incluye registros inactivos: un DELETE lógico no debe revertirse al reiniciar.
         var existing = set.AsNoTracking().ToList().Select(key).ToHashSet();
         set.AddRange(seed.Where(x => !existing.Contains(key(x))));
     }
@@ -52,4 +53,3 @@ public static class CatalogSeed
         set.AddRange(seed.Where(x => !existing.Contains(key(x))));
     }
 }
-
