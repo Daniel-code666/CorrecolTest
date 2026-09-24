@@ -57,5 +57,3 @@ app.MapControllers();
 app.MapHealthChecks("/health");
 app.MapGet("/", () => Results.Redirect("/swagger")).ExcludeFromDescription();
 await app.RunAsync();
-
-public partial class Program;
