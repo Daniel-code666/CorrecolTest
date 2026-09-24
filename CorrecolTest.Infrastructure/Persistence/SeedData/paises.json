@@ -1,0 +1,1724 @@
+[
+    {
+        "Codigo":  4,
+        "Iso1":  "AFG",
+        "Iso2":  "AF",
+        "Nombre":  "AFGANISTÁN",
+        "Capital":  "KABUL"
+    },
+    {
+        "Codigo":  8,
+        "Iso1":  "ALB",
+        "Iso2":  "AL",
+        "Nombre":  "ALBANIA",
+        "Capital":  "TIRANA"
+    },
+    {
+        "Codigo":  10,
+        "Iso1":  "ATA",
+        "Iso2":  "AQ",
+        "Nombre":  "ANTÁRTIDA",
+        "Capital":  "ANTÁRTIDA"
+    },
+    {
+        "Codigo":  12,
+        "Iso1":  "DZA",
+        "Iso2":  "DZ",
+        "Nombre":  "ARGELIA",
+        "Capital":  "ARGEL"
+    },
+    {
+        "Codigo":  16,
+        "Iso1":  "ASM",
+        "Iso2":  "AS",
+        "Nombre":  "SAMOA AMERICANA",
+        "Capital":  "PAGO PAGO"
+    },
+    {
+        "Codigo":  20,
+        "Iso1":  "AND",
+        "Iso2":  "AD",
+        "Nombre":  "ANDORRA",
+        "Capital":  "ANDORRA LA VIEJA"
+    },
+    {
+        "Codigo":  24,
+        "Iso1":  "AGO",
+        "Iso2":  "AO",
+        "Nombre":  "ANGOLA",
+        "Capital":  "LUANDA"
+    },
+    {
+        "Codigo":  28,
+        "Iso1":  "ATG",
+        "Iso2":  "AG",
+        "Nombre":  "ANTIGUA Y BARBUDA",
+        "Capital":  "SAINT JOHNS"
+    },
+    {
+        "Codigo":  31,
+        "Iso1":  "AZE",
+        "Iso2":  "AZ",
+        "Nombre":  "AZERBAIYÁN",
+        "Capital":  "BAKÚ"
+    },
+    {
+        "Codigo":  32,
+        "Iso1":  "ARG",
+        "Iso2":  "AR",
+        "Nombre":  "ARGENTINA",
+        "Capital":  "BUENOS AIRES"
+    },
+    {
+        "Codigo":  36,
+        "Iso1":  "AUS",
+        "Iso2":  "AU",
+        "Nombre":  "AUSTRALIA",
+        "Capital":  "CANBERRA"
+    },
+    {
+        "Codigo":  40,
+        "Iso1":  "AUT",
+        "Iso2":  "AT",
+        "Nombre":  "AUSTRIA",
+        "Capital":  "VIENA"
+    },
+    {
+        "Codigo":  44,
+        "Iso1":  "BHS",
+        "Iso2":  "BS",
+        "Nombre":  "BAHAMAS",
+        "Capital":  "NASSAU"
+    },
+    {
+        "Codigo":  48,
+        "Iso1":  "BHR",
+        "Iso2":  "BH",
+        "Nombre":  "BAHRÉIN",
+        "Capital":  "MANAMA"
+    },
+    {
+        "Codigo":  50,
+        "Iso1":  "BGD",
+        "Iso2":  "BD",
+        "Nombre":  "BANGLADESH",
+        "Capital":  "DACCA"
+    },
+    {
+        "Codigo":  51,
+        "Iso1":  "ARM",
+        "Iso2":  "AM",
+        "Nombre":  "ARMENIA",
+        "Capital":  "EREVÁN"
+    },
+    {
+        "Codigo":  52,
+        "Iso1":  "BRB",
+        "Iso2":  "BB",
+        "Nombre":  "BARBADOS",
+        "Capital":  "BRIDGETOWN"
+    },
+    {
+        "Codigo":  56,
+        "Iso1":  "BEL",
+        "Iso2":  "BE",
+        "Nombre":  "BÉLGICA",
+        "Capital":  "BRUSELAS"
+    },
+    {
+        "Codigo":  60,
+        "Iso1":  "BMU",
+        "Iso2":  "BM",
+        "Nombre":  "BERMUDAS",
+        "Capital":  "HAMILTON"
+    },
+    {
+        "Codigo":  64,
+        "Iso1":  "BTN",
+        "Iso2":  "BT",
+        "Nombre":  "BUTÁN",
+        "Capital":  "TIMBU"
+    },
+    {
+        "Codigo":  68,
+        "Iso1":  "BOL",
+        "Iso2":  "BO",
+        "Nombre":  "BOLIVIA",
+        "Capital":  "SUCRE"
+    },
+    {
+        "Codigo":  70,
+        "Iso1":  "BIH",
+        "Iso2":  "BA",
+        "Nombre":  "BOSNIA Y HERZEGOVINA",
+        "Capital":  "SARAJEVO"
+    },
+    {
+        "Codigo":  72,
+        "Iso1":  "BWA",
+        "Iso2":  "BW",
+        "Nombre":  "BOTSUANA",
+        "Capital":  "GABORONE"
+    },
+    {
+        "Codigo":  74,
+        "Iso1":  "BVT",
+        "Iso2":  "BV",
+        "Nombre":  "ISLA BOUVET",
+        "Capital":  "OSLO"
+    },
+    {
+        "Codigo":  76,
+        "Iso1":  "BRA",
+        "Iso2":  "BR",
+        "Nombre":  "BRASIL",
+        "Capital":  "BRASILIA"
+    },
+    {
+        "Codigo":  84,
+        "Iso1":  "BLZ",
+        "Iso2":  "BZ",
+        "Nombre":  "BELICE",
+        "Capital":  "BELMOPÁN"
+    },
+    {
+        "Codigo":  86,
+        "Iso1":  "IOT",
+        "Iso2":  "IO",
+        "Nombre":  "TERRITORIO BRITÁNICO DEL OCÉANO ÍNDICO",
+        "Capital":  "LONDRES"
+    },
+    {
+        "Codigo":  90,
+        "Iso1":  "SLB",
+        "Iso2":  "SB",
+        "Nombre":  "ISLAS SALOMÓN",
+        "Capital":  "HONIARA"
+    },
+    {
+        "Codigo":  92,
+        "Iso1":  "VGB",
+        "Iso2":  "VG",
+        "Nombre":  "ISLAS VÍRGENES BRITÁNICAS",
+        "Capital":  "ROAD TOWN"
+    },
+    {
+        "Codigo":  96,
+        "Iso1":  "BRN",
+        "Iso2":  "BN",
+        "Nombre":  "BRUNÉI",
+        "Capital":  "BANDAR SERI BEGAWAN"
+    },
+    {
+        "Codigo":  100,
+        "Iso1":  "BGR",
+        "Iso2":  "BG",
+        "Nombre":  "BULGARIA",
+        "Capital":  "SOFÍA"
+    },
+    {
+        "Codigo":  104,
+        "Iso1":  "MMR",
+        "Iso2":  "MM",
+        "Nombre":  "BIRMANIA",
+        "Capital":  "NAYPYIDAW"
+    },
+    {
+        "Codigo":  108,
+        "Iso1":  "BDI",
+        "Iso2":  "BI",
+        "Nombre":  "BURUNDI",
+        "Capital":  "BUYUMBURA"
+    },
+    {
+        "Codigo":  112,
+        "Iso1":  "BLR",
+        "Iso2":  "BY",
+        "Nombre":  "BIELORRUSIA",
+        "Capital":  "MINSK"
+    },
+    {
+        "Codigo":  116,
+        "Iso1":  "KHM",
+        "Iso2":  "KH",
+        "Nombre":  "CAMBOYA",
+        "Capital":  "PHNOM PENH"
+    },
+    {
+        "Codigo":  120,
+        "Iso1":  "CMR",
+        "Iso2":  "CM",
+        "Nombre":  "CAMERÚN",
+        "Capital":  "YAUNDÉ"
+    },
+    {
+        "Codigo":  124,
+        "Iso1":  "CAN",
+        "Iso2":  "CA",
+        "Nombre":  "CANADÁ",
+        "Capital":  "OTTAWA"
+    },
+    {
+        "Codigo":  132,
+        "Iso1":  "CPV",
+        "Iso2":  "CV",
+        "Nombre":  "CABO VERDE",
+        "Capital":  "PRAIA"
+    },
+    {
+        "Codigo":  136,
+        "Iso1":  "CYM",
+        "Iso2":  "KY",
+        "Nombre":  "ISLAS CAIMÁN",
+        "Capital":  "GEORGE TOWN"
+    },
+    {
+        "Codigo":  140,
+        "Iso1":  "CAF",
+        "Iso2":  "CF",
+        "Nombre":  "REPÚBLICA CENTROAFRICANA",
+        "Capital":  "BANGUI"
+    },
+    {
+        "Codigo":  144,
+        "Iso1":  "LKA",
+        "Iso2":  "LK",
+        "Nombre":  "SRI LANKA",
+        "Capital":  "COLOMBO"
+    },
+    {
+        "Codigo":  148,
+        "Iso1":  "TCD",
+        "Iso2":  "TD",
+        "Nombre":  "CHAD",
+        "Capital":  "YAMENA"
+    },
+    {
+        "Codigo":  152,
+        "Iso1":  "CHL",
+        "Iso2":  "CL",
+        "Nombre":  "CHILE",
+        "Capital":  "SANTIAGO DE CHILE"
+    },
+    {
+        "Codigo":  156,
+        "Iso1":  "CHN",
+        "Iso2":  "CN",
+        "Nombre":  "CHINA",
+        "Capital":  "PEKÍN"
+    },
+    {
+        "Codigo":  158,
+        "Iso1":  "TWN",
+        "Iso2":  "TW",
+        "Nombre":  "TAIWÁN",
+        "Capital":  "TAIPÉI"
+    },
+    {
+        "Codigo":  162,
+        "Iso1":  "CXR",
+        "Iso2":  "CX",
+        "Nombre":  "ISLA DE NAVIDAD",
+        "Capital":  "FLYING FISH COVE"
+    },
+    {
+        "Codigo":  166,
+        "Iso1":  "CCK",
+        "Iso2":  "CC",
+        "Nombre":  "ISLAS COCOS",
+        "Capital":  "WEST ISLAND"
+    },
+    {
+        "Codigo":  170,
+        "Iso1":  "COL",
+        "Iso2":  "CO",
+        "Nombre":  "COLOMBIA",
+        "Capital":  "BOGOTÁ"
+    },
+    {
+        "Codigo":  174,
+        "Iso1":  "COM",
+        "Iso2":  "KM",
+        "Nombre":  "COMORAS",
+        "Capital":  "MORONI"
+    },
+    {
+        "Codigo":  175,
+        "Iso1":  "MYT",
+        "Iso2":  "YT",
+        "Nombre":  "MAYOTTE",
+        "Capital":  "MAMOUDZOU"
+    },
+    {
+        "Codigo":  178,
+        "Iso1":  "COG",
+        "Iso2":  "CG",
+        "Nombre":  "REPÚBLICA DEL CONGO",
+        "Capital":  "BRAZZAVILLE"
+    },
+    {
+        "Codigo":  180,
+        "Iso1":  "COD",
+        "Iso2":  "CD",
+        "Nombre":  "REPÚBLICA DEMOCRÁTICA DEL CONGO",
+        "Capital":  "KINSHASA"
+    },
+    {
+        "Codigo":  184,
+        "Iso1":  "COK",
+        "Iso2":  "CK",
+        "Nombre":  "ISLAS COOK",
+        "Capital":  "AVARUA"
+    },
+    {
+        "Codigo":  188,
+        "Iso1":  "CRI",
+        "Iso2":  "CR",
+        "Nombre":  "COSTA RICA",
+        "Capital":  "SAN JOSÉ"
+    },
+    {
+        "Codigo":  191,
+        "Iso1":  "HRV",
+        "Iso2":  "HR",
+        "Nombre":  "CROACIA",
+        "Capital":  "ZAGREB"
+    },
+    {
+        "Codigo":  192,
+        "Iso1":  "CUB",
+        "Iso2":  "CU",
+        "Nombre":  "CUBA",
+        "Capital":  "LA HABANA"
+    },
+    {
+        "Codigo":  196,
+        "Iso1":  "CYP",
+        "Iso2":  "CY",
+        "Nombre":  "CHIPRE",
+        "Capital":  "NICOSIA"
+    },
+    {
+        "Codigo":  203,
+        "Iso1":  "CZE",
+        "Iso2":  "CZ",
+        "Nombre":  "REPÚBLICA CHECA",
+        "Capital":  "PRAGA"
+    },
+    {
+        "Codigo":  204,
+        "Iso1":  "BEN",
+        "Iso2":  "BJ",
+        "Nombre":  "BENÍN",
+        "Capital":  "PORTO-NOVO"
+    },
+    {
+        "Codigo":  208,
+        "Iso1":  "DNK",
+        "Iso2":  "DK",
+        "Nombre":  "DINAMARCA",
+        "Capital":  "COPENHAGUE"
+    },
+    {
+        "Codigo":  212,
+        "Iso1":  "DMA",
+        "Iso2":  "DM",
+        "Nombre":  "DOMINICA",
+        "Capital":  "ROSEAU"
+    },
+    {
+        "Codigo":  214,
+        "Iso1":  "DOM",
+        "Iso2":  "DO",
+        "Nombre":  "REPÚBLICA DOMINICANA",
+        "Capital":  "SANTO DOMINGO"
+    },
+    {
+        "Codigo":  218,
+        "Iso1":  "ECU",
+        "Iso2":  "EC",
+        "Nombre":  "ECUADOR",
+        "Capital":  "QUITO"
+    },
+    {
+        "Codigo":  222,
+        "Iso1":  "SLV",
+        "Iso2":  "SV",
+        "Nombre":  "EL SALVADOR",
+        "Capital":  "SAN SALVADOR"
+    },
+    {
+        "Codigo":  226,
+        "Iso1":  "GNQ",
+        "Iso2":  "GQ",
+        "Nombre":  "GUINEA ECUATORIAL",
+        "Capital":  "MALABO"
+    },
+    {
+        "Codigo":  231,
+        "Iso1":  "ETH",
+        "Iso2":  "ET",
+        "Nombre":  "ETIOPÍA",
+        "Capital":  "ADÍS ABEBA"
+    },
+    {
+        "Codigo":  232,
+        "Iso1":  "ERI",
+        "Iso2":  "ER",
+        "Nombre":  "ERITREA",
+        "Capital":  "ASMARA"
+    },
+    {
+        "Codigo":  233,
+        "Iso1":  "EST",
+        "Iso2":  "EE",
+        "Nombre":  "ESTONIA",
+        "Capital":  "TALLIN"
+    },
+    {
+        "Codigo":  234,
+        "Iso1":  "FRO",
+        "Iso2":  "FO",
+        "Nombre":  "ISLAS FEROE",
+        "Capital":  "TÓRSHAVN"
+    },
+    {
+        "Codigo":  238,
+        "Iso1":  "FLK",
+        "Iso2":  "FK",
+        "Nombre":  "ISLAS MALVINAS",
+        "Capital":  "PUERTO ARGENTINO/STANLEY"
+    },
+    {
+        "Codigo":  239,
+        "Iso1":  "SGS",
+        "Iso2":  "GS",
+        "Nombre":  "ISLAS GEORGIAS DEL SUR Y SANDWICH DEL SUR",
+        "Capital":  "KING EDWARD POINT"
+    },
+    {
+        "Codigo":  242,
+        "Iso1":  "FJI",
+        "Iso2":  "FJ",
+        "Nombre":  "FIYI",
+        "Capital":  "SUVA"
+    },
+    {
+        "Codigo":  246,
+        "Iso1":  "FIN",
+        "Iso2":  "FI",
+        "Nombre":  "FINLANDIA",
+        "Capital":  "HELSINKI"
+    },
+    {
+        "Codigo":  248,
+        "Iso1":  "ALA",
+        "Iso2":  "AX",
+        "Nombre":  "ÅLAND",
+        "Capital":  "MARIEHAMN"
+    },
+    {
+        "Codigo":  250,
+        "Iso1":  "FRA",
+        "Iso2":  "FR",
+        "Nombre":  "FRANCIA",
+        "Capital":  "PARÍS"
+    },
+    {
+        "Codigo":  254,
+        "Iso1":  "GUF",
+        "Iso2":  "GF",
+        "Nombre":  "GUAYANA FRANCESA",
+        "Capital":  "CAYENA"
+    },
+    {
+        "Codigo":  258,
+        "Iso1":  "PYF",
+        "Iso2":  "PF",
+        "Nombre":  "POLINESIA FRANCESA",
+        "Capital":  "PAPEETE"
+    },
+    {
+        "Codigo":  260,
+        "Iso1":  "ATF",
+        "Iso2":  "TF",
+        "Nombre":  "TERRITORIOS AUSTRALES FRANCESES",
+        "Capital":  "PORT AUX FRANCAIS"
+    },
+    {
+        "Codigo":  262,
+        "Iso1":  "DJI",
+        "Iso2":  "DJ",
+        "Nombre":  "YIBUTI",
+        "Capital":  "YIBUTI"
+    },
+    {
+        "Codigo":  266,
+        "Iso1":  "GAB",
+        "Iso2":  "GA",
+        "Nombre":  "GABÓN",
+        "Capital":  "LIBREVILLE"
+    },
+    {
+        "Codigo":  268,
+        "Iso1":  "GEO",
+        "Iso2":  "GE",
+        "Nombre":  "GEORGIA",
+        "Capital":  "TIFLIS"
+    },
+    {
+        "Codigo":  270,
+        "Iso1":  "GMB",
+        "Iso2":  "GM",
+        "Nombre":  "GAMBIA",
+        "Capital":  "BANJUL"
+    },
+    {
+        "Codigo":  275,
+        "Iso1":  "PSE",
+        "Iso2":  "PS",
+        "Nombre":  "TERRITORIOS PALESTINOS",
+        "Capital":  "JERUSALÉN ORIENTAL"
+    },
+    {
+        "Codigo":  276,
+        "Iso1":  "DEU",
+        "Iso2":  "DE",
+        "Nombre":  "ALEMANIA",
+        "Capital":  "BERLÍN"
+    },
+    {
+        "Codigo":  288,
+        "Iso1":  "GHA",
+        "Iso2":  "GH",
+        "Nombre":  "GHANA",
+        "Capital":  "ACCRA"
+    },
+    {
+        "Codigo":  292,
+        "Iso1":  "GIB",
+        "Iso2":  "GI",
+        "Nombre":  "GIBRALTAR",
+        "Capital":  "GIBRALTAR"
+    },
+    {
+        "Codigo":  296,
+        "Iso1":  "KIR",
+        "Iso2":  "KI",
+        "Nombre":  "KIRIBATI",
+        "Capital":  "TARAWA"
+    },
+    {
+        "Codigo":  300,
+        "Iso1":  "GRC",
+        "Iso2":  "GR",
+        "Nombre":  "GRECIA",
+        "Capital":  "ATENAS"
+    },
+    {
+        "Codigo":  304,
+        "Iso1":  "GRL",
+        "Iso2":  "GL",
+        "Nombre":  "GROENLANDIA",
+        "Capital":  "NUUK"
+    },
+    {
+        "Codigo":  308,
+        "Iso1":  "GRD",
+        "Iso2":  "GD",
+        "Nombre":  "GRANADA",
+        "Capital":  "SAINT GEORGES"
+    },
+    {
+        "Codigo":  312,
+        "Iso1":  "GLP",
+        "Iso2":  "GP",
+        "Nombre":  "GUADALUPE",
+        "Capital":  "BASSE-TERRE"
+    },
+    {
+        "Codigo":  316,
+        "Iso1":  "GUM",
+        "Iso2":  "GU",
+        "Nombre":  "GUAM",
+        "Capital":  "AGAÑA"
+    },
+    {
+        "Codigo":  320,
+        "Iso1":  "GTM",
+        "Iso2":  "GT",
+        "Nombre":  "GUATEMALA",
+        "Capital":  "CIUDAD DE GUATEMALA"
+    },
+    {
+        "Codigo":  324,
+        "Iso1":  "GIN",
+        "Iso2":  "GN",
+        "Nombre":  "GUINEA",
+        "Capital":  "CONAKRY"
+    },
+    {
+        "Codigo":  328,
+        "Iso1":  "GUY",
+        "Iso2":  "GY",
+        "Nombre":  "GUYANA",
+        "Capital":  "GEORGETOWN"
+    },
+    {
+        "Codigo":  332,
+        "Iso1":  "HTI",
+        "Iso2":  "HT",
+        "Nombre":  "HAITÍ",
+        "Capital":  "PUERTO PRÍNCIPE"
+    },
+    {
+        "Codigo":  334,
+        "Iso1":  "HMD",
+        "Iso2":  "HM",
+        "Nombre":  "ISLAS HEARD Y MCDONALD",
+        "Capital":  "CANBERRA"
+    },
+    {
+        "Codigo":  336,
+        "Iso1":  "VAT",
+        "Iso2":  "VA",
+        "Nombre":  "CIUDAD DEL VATICANO",
+        "Capital":  "CIUDAD DEL VATICANO"
+    },
+    {
+        "Codigo":  340,
+        "Iso1":  "HND",
+        "Iso2":  "HN",
+        "Nombre":  "HONDURAS",
+        "Capital":  "TEGUCIGALPA"
+    },
+    {
+        "Codigo":  344,
+        "Iso1":  "HKG",
+        "Iso2":  "HK",
+        "Nombre":  "HONG KONG",
+        "Capital":  "HONG KONG"
+    },
+    {
+        "Codigo":  348,
+        "Iso1":  "HUN",
+        "Iso2":  "HU",
+        "Nombre":  "HUNGRÍA",
+        "Capital":  "BUDAPEST"
+    },
+    {
+        "Codigo":  352,
+        "Iso1":  "ISL",
+        "Iso2":  "IS",
+        "Nombre":  "ISLANDIA",
+        "Capital":  "REYKJAVÍK"
+    },
+    {
+        "Codigo":  356,
+        "Iso1":  "IND",
+        "Iso2":  "IN",
+        "Nombre":  "INDIA",
+        "Capital":  "NUEVA DELHI"
+    },
+    {
+        "Codigo":  360,
+        "Iso1":  "IDN",
+        "Iso2":  "ID",
+        "Nombre":  "INDONESIA",
+        "Capital":  "YAKARTA"
+    },
+    {
+        "Codigo":  364,
+        "Iso1":  "IRN",
+        "Iso2":  "IR",
+        "Nombre":  "IRÁN",
+        "Capital":  "TEHERÁN"
+    },
+    {
+        "Codigo":  368,
+        "Iso1":  "IRQ",
+        "Iso2":  "IQ",
+        "Nombre":  "IRAQ",
+        "Capital":  "BAGDAD"
+    },
+    {
+        "Codigo":  372,
+        "Iso1":  "IRL",
+        "Iso2":  "IE",
+        "Nombre":  "IRLANDA",
+        "Capital":  "DUBLÍN"
+    },
+    {
+        "Codigo":  376,
+        "Iso1":  "ISR",
+        "Iso2":  "IL",
+        "Nombre":  "ISRAEL",
+        "Capital":  "JERUSALÉN"
+    },
+    {
+        "Codigo":  380,
+        "Iso1":  "ITA",
+        "Iso2":  "IT",
+        "Nombre":  "ITALIA",
+        "Capital":  "ROMA"
+    },
+    {
+        "Codigo":  384,
+        "Iso1":  "CIV",
+        "Iso2":  "CI",
+        "Nombre":  "COSTA DE MARFIL",
+        "Capital":  "YAMUSUKRO"
+    },
+    {
+        "Codigo":  388,
+        "Iso1":  "JAM",
+        "Iso2":  "JM",
+        "Nombre":  "JAMAICA",
+        "Capital":  "KINGSTON"
+    },
+    {
+        "Codigo":  392,
+        "Iso1":  "JPN",
+        "Iso2":  "JP",
+        "Nombre":  "JAPÓN",
+        "Capital":  "TOKIO"
+    },
+    {
+        "Codigo":  398,
+        "Iso1":  "KAZ",
+        "Iso2":  "KZ",
+        "Nombre":  "KAZAJISTÁN",
+        "Capital":  "ASTANÁ"
+    },
+    {
+        "Codigo":  400,
+        "Iso1":  "JOR",
+        "Iso2":  "JO",
+        "Nombre":  "JORDANIA",
+        "Capital":  "AMMÁN"
+    },
+    {
+        "Codigo":  404,
+        "Iso1":  "KEN",
+        "Iso2":  "KE",
+        "Nombre":  "KENIA",
+        "Capital":  "NAIROBI"
+    },
+    {
+        "Codigo":  408,
+        "Iso1":  "PRK",
+        "Iso2":  "KP",
+        "Nombre":  "COREA DEL NORTE",
+        "Capital":  "PYONGYANG"
+    },
+    {
+        "Codigo":  410,
+        "Iso1":  "KOR",
+        "Iso2":  "KR",
+        "Nombre":  "COREA DEL SUR",
+        "Capital":  "SEÚL"
+    },
+    {
+        "Codigo":  414,
+        "Iso1":  "KWT",
+        "Iso2":  "KW",
+        "Nombre":  "KUWAIT",
+        "Capital":  "CIUDAD DE KUWAIT"
+    },
+    {
+        "Codigo":  417,
+        "Iso1":  "KGZ",
+        "Iso2":  "KG",
+        "Nombre":  "KIRGUISTÁN",
+        "Capital":  "BISKEK"
+    },
+    {
+        "Codigo":  418,
+        "Iso1":  "LAO",
+        "Iso2":  "LA",
+        "Nombre":  "LAOS",
+        "Capital":  "VIENTIANE"
+    },
+    {
+        "Codigo":  422,
+        "Iso1":  "LBN",
+        "Iso2":  "LB",
+        "Nombre":  "LÍBANO",
+        "Capital":  "BEIRUT"
+    },
+    {
+        "Codigo":  426,
+        "Iso1":  "LSO",
+        "Iso2":  "LS",
+        "Nombre":  "LESOTO",
+        "Capital":  "MASERU"
+    },
+    {
+        "Codigo":  428,
+        "Iso1":  "LVA",
+        "Iso2":  "LV",
+        "Nombre":  "LETONIA",
+        "Capital":  "RIGA"
+    },
+    {
+        "Codigo":  430,
+        "Iso1":  "LBR",
+        "Iso2":  "LR",
+        "Nombre":  "LIBERIA",
+        "Capital":  "MONROVIA"
+    },
+    {
+        "Codigo":  434,
+        "Iso1":  "LBY",
+        "Iso2":  "LY",
+        "Nombre":  "LIBIA",
+        "Capital":  "TRÍPOLI"
+    },
+    {
+        "Codigo":  438,
+        "Iso1":  "LIE",
+        "Iso2":  "LI",
+        "Nombre":  "LIECHTENSTEIN",
+        "Capital":  "VADUZ"
+    },
+    {
+        "Codigo":  440,
+        "Iso1":  "LTU",
+        "Iso2":  "LT",
+        "Nombre":  "LITUANIA",
+        "Capital":  "VILNA"
+    },
+    {
+        "Codigo":  442,
+        "Iso1":  "LUX",
+        "Iso2":  "LU",
+        "Nombre":  "LUXEMBURGO",
+        "Capital":  "LUXEMBURGO"
+    },
+    {
+        "Codigo":  446,
+        "Iso1":  "MAC",
+        "Iso2":  "MO",
+        "Nombre":  "MACAO",
+        "Capital":  "MACAO"
+    },
+    {
+        "Codigo":  450,
+        "Iso1":  "MDG",
+        "Iso2":  "MG",
+        "Nombre":  "MADAGASCAR",
+        "Capital":  "ANTANANARIVO"
+    },
+    {
+        "Codigo":  454,
+        "Iso1":  "MWI",
+        "Iso2":  "MW",
+        "Nombre":  "MALAUI",
+        "Capital":  "LILONGÜE"
+    },
+    {
+        "Codigo":  458,
+        "Iso1":  "MYS",
+        "Iso2":  "MY",
+        "Nombre":  "MALASIA",
+        "Capital":  "KUALA LUMPUR"
+    },
+    {
+        "Codigo":  462,
+        "Iso1":  "MDV",
+        "Iso2":  "MV",
+        "Nombre":  "MALDIVAS",
+        "Capital":  "MALÉ"
+    },
+    {
+        "Codigo":  466,
+        "Iso1":  "MLI",
+        "Iso2":  "ML",
+        "Nombre":  "MALÍ",
+        "Capital":  "BAMAKO"
+    },
+    {
+        "Codigo":  470,
+        "Iso1":  "MLT",
+        "Iso2":  "MT",
+        "Nombre":  "MALTA",
+        "Capital":  "LA VALETA"
+    },
+    {
+        "Codigo":  474,
+        "Iso1":  "MTQ",
+        "Iso2":  "MQ",
+        "Nombre":  "MARTINICA",
+        "Capital":  "FORT DE FRANCE"
+    },
+    {
+        "Codigo":  478,
+        "Iso1":  "MRT",
+        "Iso2":  "MR",
+        "Nombre":  "MAURITANIA",
+        "Capital":  "NUAKCHOT"
+    },
+    {
+        "Codigo":  480,
+        "Iso1":  "MUS",
+        "Iso2":  "MU",
+        "Nombre":  "MAURICIO",
+        "Capital":  "PORT LOUIS"
+    },
+    {
+        "Codigo":  484,
+        "Iso1":  "MEX",
+        "Iso2":  "MX",
+        "Nombre":  "MÉXICO",
+        "Capital":  "CIUDAD DE MÉXICO"
+    },
+    {
+        "Codigo":  492,
+        "Iso1":  "MCO",
+        "Iso2":  "MC",
+        "Nombre":  "MÓNACO",
+        "Capital":  "MÓNACO"
+    },
+    {
+        "Codigo":  496,
+        "Iso1":  "MNG",
+        "Iso2":  "MN",
+        "Nombre":  "MONGOLIA",
+        "Capital":  "ULÁN BATOR"
+    },
+    {
+        "Codigo":  498,
+        "Iso1":  "MDA",
+        "Iso2":  "MD",
+        "Nombre":  "MOLDAVIA",
+        "Capital":  "CHISINAU"
+    },
+    {
+        "Codigo":  499,
+        "Iso1":  "MNE",
+        "Iso2":  "ME",
+        "Nombre":  "MONTENEGRO",
+        "Capital":  "PODGORICA"
+    },
+    {
+        "Codigo":  500,
+        "Iso1":  "MSR",
+        "Iso2":  "MS",
+        "Nombre":  "MONTSERRAT",
+        "Capital":  "PLYMOUNTH"
+    },
+    {
+        "Codigo":  504,
+        "Iso1":  "MAR",
+        "Iso2":  "MA",
+        "Nombre":  "MARRUECOS",
+        "Capital":  "RABAT"
+    },
+    {
+        "Codigo":  508,
+        "Iso1":  "MOZ",
+        "Iso2":  "MZ",
+        "Nombre":  "MOZAMBIQUE",
+        "Capital":  "MAPUTO"
+    },
+    {
+        "Codigo":  512,
+        "Iso1":  "OMN",
+        "Iso2":  "OM",
+        "Nombre":  "OMÁN",
+        "Capital":  "MASCATE"
+    },
+    {
+        "Codigo":  516,
+        "Iso1":  "NAM",
+        "Iso2":  "NA",
+        "Nombre":  "NAMIBIA",
+        "Capital":  "WINDHOEK"
+    },
+    {
+        "Codigo":  520,
+        "Iso1":  "NRU",
+        "Iso2":  "NR",
+        "Nombre":  "NAURU",
+        "Capital":  "YAREN"
+    },
+    {
+        "Codigo":  524,
+        "Iso1":  "NPL",
+        "Iso2":  "NP",
+        "Nombre":  "NEPAL",
+        "Capital":  "KATMANDÚ"
+    },
+    {
+        "Codigo":  528,
+        "Iso1":  "NLD",
+        "Iso2":  "NL",
+        "Nombre":  "PAÍSES BAJOS",
+        "Capital":  "AMSTERDAM"
+    },
+    {
+        "Codigo":  530,
+        "Iso1":  "ANT",
+        "Iso2":  "AN",
+        "Nombre":  "ANTILLAS NEERLANDESAS",
+        "Capital":  "WILLEMSTAD"
+    },
+    {
+        "Codigo":  533,
+        "Iso1":  "ABW",
+        "Iso2":  "AW",
+        "Nombre":  "ARUBA",
+        "Capital":  "ORANJESTAD"
+    },
+    {
+        "Codigo":  540,
+        "Iso1":  "NCL",
+        "Iso2":  "NC",
+        "Nombre":  "NUEVA CALEDONIA",
+        "Capital":  "NUMEA"
+    },
+    {
+        "Codigo":  548,
+        "Iso1":  "VUT",
+        "Iso2":  "VU",
+        "Nombre":  "VANUATU",
+        "Capital":  "PORT VILA"
+    },
+    {
+        "Codigo":  554,
+        "Iso1":  "NZL",
+        "Iso2":  "NZ",
+        "Nombre":  "NUEVA ZELANDA",
+        "Capital":  "WELLINGTON"
+    },
+    {
+        "Codigo":  558,
+        "Iso1":  "NIC",
+        "Iso2":  "NI",
+        "Nombre":  "NICARAGUA",
+        "Capital":  "MANAGUA"
+    },
+    {
+        "Codigo":  562,
+        "Iso1":  "NER",
+        "Iso2":  "NE",
+        "Nombre":  "NÍGER",
+        "Capital":  "NIAMEY"
+    },
+    {
+        "Codigo":  566,
+        "Iso1":  "NGA",
+        "Iso2":  "NG",
+        "Nombre":  "NIGERIA",
+        "Capital":  "ABUJA"
+    },
+    {
+        "Codigo":  570,
+        "Iso1":  "NIU",
+        "Iso2":  "NU",
+        "Nombre":  "NIUE",
+        "Capital":  "ALOFI"
+    },
+    {
+        "Codigo":  574,
+        "Iso1":  "NFK",
+        "Iso2":  "NF",
+        "Nombre":  "NORFOLK",
+        "Capital":  "KINGSTON"
+    },
+    {
+        "Codigo":  578,
+        "Iso1":  "NOR",
+        "Iso2":  "NO",
+        "Nombre":  "NORUEGA",
+        "Capital":  "OSLO"
+    },
+    {
+        "Codigo":  580,
+        "Iso1":  "MNP",
+        "Iso2":  "MP",
+        "Nombre":  "ISLAS MARIANAS DEL NORTE",
+        "Capital":  "SAIPÁN"
+    },
+    {
+        "Codigo":  581,
+        "Iso1":  "UMI",
+        "Iso2":  "UM",
+        "Nombre":  "ISLAS ULTRAMARINAS DE ESTADOS UNIDOS",
+        "Capital":  "WASHINGTON D.C."
+    },
+    {
+        "Codigo":  583,
+        "Iso1":  "FSM",
+        "Iso2":  "FM",
+        "Nombre":  "MICRONESIA",
+        "Capital":  "PALIKIR"
+    },
+    {
+        "Codigo":  584,
+        "Iso1":  "MHL",
+        "Iso2":  "MH",
+        "Nombre":  "ISLAS MARSHALL",
+        "Capital":  "DALAP - ULIGA - DARRIT"
+    },
+    {
+        "Codigo":  585,
+        "Iso1":  "PLW",
+        "Iso2":  "PW",
+        "Nombre":  "PALAOS",
+        "Capital":  "MELEKEOK"
+    },
+    {
+        "Codigo":  586,
+        "Iso1":  "PAK",
+        "Iso2":  "PK",
+        "Nombre":  "PAKISTÁN",
+        "Capital":  "ISLAMABAD"
+    },
+    {
+        "Codigo":  591,
+        "Iso1":  "PAN",
+        "Iso2":  "PA",
+        "Nombre":  "PANAMÁ",
+        "Capital":  "CIUDAD DE PANAMÁ"
+    },
+    {
+        "Codigo":  598,
+        "Iso1":  "PNG",
+        "Iso2":  "PG",
+        "Nombre":  "PAPÚA NUEVA GUINEA",
+        "Capital":  "PORT MORESBY"
+    },
+    {
+        "Codigo":  600,
+        "Iso1":  "PRY",
+        "Iso2":  "PY",
+        "Nombre":  "PARAGUAY",
+        "Capital":  "ASUNCIÓN"
+    },
+    {
+        "Codigo":  604,
+        "Iso1":  "PER",
+        "Iso2":  "PE",
+        "Nombre":  "PERÚ",
+        "Capital":  "LIMA"
+    },
+    {
+        "Codigo":  608,
+        "Iso1":  "PHL",
+        "Iso2":  "PH",
+        "Nombre":  "FILIPINAS",
+        "Capital":  "MANILA"
+    },
+    {
+        "Codigo":  612,
+        "Iso1":  "PCN",
+        "Iso2":  "PN",
+        "Nombre":  "ISLAS PITCAIRN",
+        "Capital":  "ADAMSTOWN"
+    },
+    {
+        "Codigo":  616,
+        "Iso1":  "POL",
+        "Iso2":  "PL",
+        "Nombre":  "POLONIA",
+        "Capital":  "VARSOVIA"
+    },
+    {
+        "Codigo":  620,
+        "Iso1":  "PRT",
+        "Iso2":  "PT",
+        "Nombre":  "PORTUGAL",
+        "Capital":  "LISBOA"
+    },
+    {
+        "Codigo":  624,
+        "Iso1":  "GNB",
+        "Iso2":  "GW",
+        "Nombre":  "GUINEA-BISSAU",
+        "Capital":  "BISSAU"
+    },
+    {
+        "Codigo":  626,
+        "Iso1":  "TLS",
+        "Iso2":  "TL",
+        "Nombre":  "TIMOR ORIENTAL",
+        "Capital":  "DILI"
+    },
+    {
+        "Codigo":  630,
+        "Iso1":  "PRI",
+        "Iso2":  "PR",
+        "Nombre":  "PUERTO RICO",
+        "Capital":  "SAN JUAN"
+    },
+    {
+        "Codigo":  634,
+        "Iso1":  "QAT",
+        "Iso2":  "QA",
+        "Nombre":  "QATAR",
+        "Capital":  "DOHA"
+    },
+    {
+        "Codigo":  638,
+        "Iso1":  "REU",
+        "Iso2":  "RE",
+        "Nombre":  "REUNIÓN",
+        "Capital":  "SAINT DENIS"
+    },
+    {
+        "Codigo":  642,
+        "Iso1":  "ROU",
+        "Iso2":  "RO",
+        "Nombre":  "RUMANIA",
+        "Capital":  "BUCAREST"
+    },
+    {
+        "Codigo":  643,
+        "Iso1":  "RUS",
+        "Iso2":  "RU",
+        "Nombre":  "RUSIA",
+        "Capital":  "MOSCÚ"
+    },
+    {
+        "Codigo":  646,
+        "Iso1":  "RWA",
+        "Iso2":  "RW",
+        "Nombre":  "RUANDA",
+        "Capital":  "KIGALI"
+    },
+    {
+        "Codigo":  652,
+        "Iso1":  "BLM",
+        "Iso2":  "BL",
+        "Nombre":  "SAN BARTOLOMÉ",
+        "Capital":  "GUSTAVIA"
+    },
+    {
+        "Codigo":  654,
+        "Iso1":  "SHN",
+        "Iso2":  "SH",
+        "Nombre":  "SANTA HELENA",
+        "Capital":  "JAMESTOWN"
+    },
+    {
+        "Codigo":  659,
+        "Iso1":  "KNA",
+        "Iso2":  "KN",
+        "Nombre":  "SAN CRISTÓBAL Y NIEVES",
+        "Capital":  "BASSETERRE"
+    },
+    {
+        "Codigo":  660,
+        "Iso1":  "AIA",
+        "Iso2":  "AI",
+        "Nombre":  "ANGUILA",
+        "Capital":  "EL VALLE"
+    },
+    {
+        "Codigo":  662,
+        "Iso1":  "LCA",
+        "Iso2":  "LC",
+        "Nombre":  "SANTA LUCÍA",
+        "Capital":  "CASTRIES"
+    },
+    {
+        "Codigo":  663,
+        "Iso1":  "MAF",
+        "Iso2":  "MF",
+        "Nombre":  "SAINT-MARTIN",
+        "Capital":  "MARIGOT"
+    },
+    {
+        "Codigo":  666,
+        "Iso1":  "SPM",
+        "Iso2":  "PM",
+        "Nombre":  "SAN PEDRO Y MIQUELÓN",
+        "Capital":  "SAN PEDRO"
+    },
+    {
+        "Codigo":  670,
+        "Iso1":  "VCT",
+        "Iso2":  "VC",
+        "Nombre":  "SAN VICENTE Y LAS GRANADINAS",
+        "Capital":  "KINGSTOWN"
+    },
+    {
+        "Codigo":  674,
+        "Iso1":  "SMR",
+        "Iso2":  "SM",
+        "Nombre":  "SAN MARINO",
+        "Capital":  "CIUDAD DE SAN MARINO"
+    },
+    {
+        "Codigo":  678,
+        "Iso1":  "STP",
+        "Iso2":  "ST",
+        "Nombre":  "SANTO TOMÉ Y PRÍNCIPE",
+        "Capital":  "SANTO TOMÉ"
+    },
+    {
+        "Codigo":  682,
+        "Iso1":  "SAU",
+        "Iso2":  "SA",
+        "Nombre":  "ARABIA SAUDITA",
+        "Capital":  "RIAD"
+    },
+    {
+        "Codigo":  686,
+        "Iso1":  "SEN",
+        "Iso2":  "SN",
+        "Nombre":  "SENEGAL",
+        "Capital":  "DAKAR"
+    },
+    {
+        "Codigo":  688,
+        "Iso1":  "SRB",
+        "Iso2":  "RS",
+        "Nombre":  "SERBIA",
+        "Capital":  "BELGRADO"
+    },
+    {
+        "Codigo":  690,
+        "Iso1":  "SYC",
+        "Iso2":  "SC",
+        "Nombre":  "SEYCHELLES",
+        "Capital":  "VICTORIA"
+    },
+    {
+        "Codigo":  694,
+        "Iso1":  "SLE",
+        "Iso2":  "SL",
+        "Nombre":  "SIERRA LEONA",
+        "Capital":  "FREETOWN"
+    },
+    {
+        "Codigo":  702,
+        "Iso1":  "SGP",
+        "Iso2":  "SG",
+        "Nombre":  "SINGAPUR",
+        "Capital":  "SINGAPUR"
+    },
+    {
+        "Codigo":  703,
+        "Iso1":  "SVK",
+        "Iso2":  "SK",
+        "Nombre":  "ESLOVAQUIA",
+        "Capital":  "BRATISLAVA"
+    },
+    {
+        "Codigo":  704,
+        "Iso1":  "VNM",
+        "Iso2":  "VN",
+        "Nombre":  "VIETNAM",
+        "Capital":  "HANÓI"
+    },
+    {
+        "Codigo":  705,
+        "Iso1":  "SVN",
+        "Iso2":  "SI",
+        "Nombre":  "ESLOVENIA",
+        "Capital":  "LIUBLIANA"
+    },
+    {
+        "Codigo":  706,
+        "Iso1":  "SOM",
+        "Iso2":  "SO",
+        "Nombre":  "SOMALIA",
+        "Capital":  "MOGADISCIO"
+    },
+    {
+        "Codigo":  710,
+        "Iso1":  "ZAF",
+        "Iso2":  "ZA",
+        "Nombre":  "SUDÁFRICA",
+        "Capital":  "PRETORIA"
+    },
+    {
+        "Codigo":  716,
+        "Iso1":  "ZWE",
+        "Iso2":  "ZW",
+        "Nombre":  "ZIMBABUE",
+        "Capital":  "HARARE"
+    },
+    {
+        "Codigo":  724,
+        "Iso1":  "ESP",
+        "Iso2":  "ES",
+        "Nombre":  "ESPAÑA",
+        "Capital":  "MADRID"
+    },
+    {
+        "Codigo":  732,
+        "Iso1":  "ESH",
+        "Iso2":  "EH",
+        "Nombre":  "SAHARA OCCIDENTAL",
+        "Capital":  "EL AAIÚN"
+    },
+    {
+        "Codigo":  736,
+        "Iso1":  "SDN",
+        "Iso2":  "SD",
+        "Nombre":  "SUDÁN",
+        "Capital":  "JARTUM"
+    },
+    {
+        "Codigo":  740,
+        "Iso1":  "SUR",
+        "Iso2":  "SR",
+        "Nombre":  "SURINAM",
+        "Capital":  "PARAMARIBO"
+    },
+    {
+        "Codigo":  744,
+        "Iso1":  "SJM",
+        "Iso2":  "SJ",
+        "Nombre":  "SVALBARD Y JAN MAYEN",
+        "Capital":  "OSLO"
+    },
+    {
+        "Codigo":  748,
+        "Iso1":  "SWZ",
+        "Iso2":  "SZ",
+        "Nombre":  "SUAZILANDIA",
+        "Capital":  "MBABANE"
+    },
+    {
+        "Codigo":  752,
+        "Iso1":  "SWE",
+        "Iso2":  "SE",
+        "Nombre":  "SUECIA",
+        "Capital":  "ESTOCOLMO"
+    },
+    {
+        "Codigo":  756,
+        "Iso1":  "CHE",
+        "Iso2":  "CH",
+        "Nombre":  "SUIZA",
+        "Capital":  "BERNA"
+    },
+    {
+        "Codigo":  760,
+        "Iso1":  "SYR",
+        "Iso2":  "SY",
+        "Nombre":  "SIRIA",
+        "Capital":  "DAMASCO"
+    },
+    {
+        "Codigo":  762,
+        "Iso1":  "TJK",
+        "Iso2":  "TJ",
+        "Nombre":  "TAYIKISTÁN",
+        "Capital":  "DUSHANBE"
+    },
+    {
+        "Codigo":  764,
+        "Iso1":  "THA",
+        "Iso2":  "TH",
+        "Nombre":  "TAILANDIA",
+        "Capital":  "BANGKOK"
+    },
+    {
+        "Codigo":  768,
+        "Iso1":  "TGO",
+        "Iso2":  "TG",
+        "Nombre":  "TOGO",
+        "Capital":  "LOMÉ"
+    },
+    {
+        "Codigo":  772,
+        "Iso1":  "TKL",
+        "Iso2":  "TK",
+        "Nombre":  "TOKELAU",
+        "Capital":  "NO TIENE"
+    },
+    {
+        "Codigo":  776,
+        "Iso1":  "TON",
+        "Iso2":  "TO",
+        "Nombre":  "TONGA",
+        "Capital":  "NUKUALOFA"
+    },
+    {
+        "Codigo":  780,
+        "Iso1":  "TTO",
+        "Iso2":  "TT",
+        "Nombre":  "TRINIDAD Y TOBAGO",
+        "Capital":  "PUERTO ESPAÑA"
+    },
+    {
+        "Codigo":  784,
+        "Iso1":  "ARE",
+        "Iso2":  "AE",
+        "Nombre":  "EMIRATOS ÁRABES UNIDOS",
+        "Capital":  "ABU DHABI"
+    },
+    {
+        "Codigo":  788,
+        "Iso1":  "TUN",
+        "Iso2":  "TN",
+        "Nombre":  "TÚNEZ",
+        "Capital":  "TÚNEZ"
+    },
+    {
+        "Codigo":  792,
+        "Iso1":  "TUR",
+        "Iso2":  "TR",
+        "Nombre":  "TURQUÍA",
+        "Capital":  "ANKARA"
+    },
+    {
+        "Codigo":  795,
+        "Iso1":  "TKM",
+        "Iso2":  "TM",
+        "Nombre":  "TURKMENISTÁN",
+        "Capital":  "ASJABAD"
+    },
+    {
+        "Codigo":  796,
+        "Iso1":  "TCA",
+        "Iso2":  "TC",
+        "Nombre":  "ISLAS TURCAS Y CAICOS",
+        "Capital":  "COCKBURN TOWN"
+    },
+    {
+        "Codigo":  798,
+        "Iso1":  "TUV",
+        "Iso2":  "TV",
+        "Nombre":  "TUVALU",
+        "Capital":  "FUNAFUTI"
+    },
+    {
+        "Codigo":  800,
+        "Iso1":  "UGA",
+        "Iso2":  "UG",
+        "Nombre":  "UGANDA",
+        "Capital":  "KAMPALA"
+    },
+    {
+        "Codigo":  804,
+        "Iso1":  "UKR",
+        "Iso2":  "UA",
+        "Nombre":  "UCRANIA",
+        "Capital":  "KIEV"
+    },
+    {
+        "Codigo":  807,
+        "Iso1":  "MKD",
+        "Iso2":  "MK",
+        "Nombre":  "MACEDONIA",
+        "Capital":  "SKOPIE"
+    },
+    {
+        "Codigo":  818,
+        "Iso1":  "EGY",
+        "Iso2":  "EG",
+        "Nombre":  "EGIPTO",
+        "Capital":  "EL CAIRO"
+    },
+    {
+        "Codigo":  826,
+        "Iso1":  "GBR",
+        "Iso2":  "GB",
+        "Nombre":  "REINO UNIDO",
+        "Capital":  "LONDRES"
+    },
+    {
+        "Codigo":  831,
+        "Iso1":  "GGY",
+        "Iso2":  "GG",
+        "Nombre":  "GUERNSEY",
+        "Capital":  "SAINT PETER PORT"
+    },
+    {
+        "Codigo":  832,
+        "Iso1":  "JEY",
+        "Iso2":  "JE",
+        "Nombre":  "JERSEY",
+        "Capital":  "SAINT HELIER"
+    },
+    {
+        "Codigo":  833,
+        "Iso1":  "IMN",
+        "Iso2":  "IM",
+        "Nombre":  "ISLA DE MAN",
+        "Capital":  "DOUGLAS"
+    },
+    {
+        "Codigo":  834,
+        "Iso1":  "TZA",
+        "Iso2":  "TZ",
+        "Nombre":  "TANZANIA",
+        "Capital":  "DODOMA"
+    },
+    {
+        "Codigo":  840,
+        "Iso1":  "USA",
+        "Iso2":  "US",
+        "Nombre":  "ESTADOS UNIDOS",
+        "Capital":  "WASHINGTON D.C."
+    },
+    {
+        "Codigo":  850,
+        "Iso1":  "VIR",
+        "Iso2":  "VI",
+        "Nombre":  "ISLAS VÍRGENES ESTADOUNIDENSES",
+        "Capital":  "CARLOTA AMALIA"
+    },
+    {
+        "Codigo":  854,
+        "Iso1":  "BFA",
+        "Iso2":  "BF",
+        "Nombre":  "BURKINA FASO",
+        "Capital":  "UAGADUGÚ"
+    },
+    {
+        "Codigo":  858,
+        "Iso1":  "URY",
+        "Iso2":  "UY",
+        "Nombre":  "URUGUAY",
+        "Capital":  "MONTEVIDEO"
+    },
+    {
+        "Codigo":  860,
+        "Iso1":  "UZB",
+        "Iso2":  "UZ",
+        "Nombre":  "UZBEKISTÁN",
+        "Capital":  "TASKENT"
+    },
+    {
+        "Codigo":  862,
+        "Iso1":  "VEN",
+        "Iso2":  "VE",
+        "Nombre":  "VENEZUELA",
+        "Capital":  "CARACAS"
+    },
+    {
+        "Codigo":  876,
+        "Iso1":  "WLF",
+        "Iso2":  "WF",
+        "Nombre":  "WALLIS Y FUTUNA",
+        "Capital":  "MATA-UTU"
+    },
+    {
+        "Codigo":  882,
+        "Iso1":  "WSM",
+        "Iso2":  "WS",
+        "Nombre":  "SAMOA",
+        "Capital":  "APIA"
+    },
+    {
+        "Codigo":  887,
+        "Iso1":  "YEM",
+        "Iso2":  "YE",
+        "Nombre":  "YEMEN",
+        "Capital":  "SANÁ"
+    },
+    {
+        "Codigo":  894,
+        "Iso1":  "ZMB",
+        "Iso2":  "ZM",
+        "Nombre":  "ZAMBIA",
+        "Capital":  "LUSAKA"
+    }
+]

@@ -1,0 +1,167 @@
+[
+    {
+        "Codigo":  5,
+        "Nombre":  "ANTIOQUIA",
+        "PaisCodigo":  170
+    },
+    {
+        "Codigo":  8,
+        "Nombre":  "ATLANTICO",
+        "PaisCodigo":  170
+    },
+    {
+        "Codigo":  11,
+        "Nombre":  "BOGOTA D.C.",
+        "PaisCodigo":  170
+    },
+    {
+        "Codigo":  13,
+        "Nombre":  "BOLIVAR",
+        "PaisCodigo":  170
+    },
+    {
+        "Codigo":  15,
+        "Nombre":  "BOYACA",
+        "PaisCodigo":  170
+    },
+    {
+        "Codigo":  17,
+        "Nombre":  "CALDAS",
+        "PaisCodigo":  170
+    },
+    {
+        "Codigo":  18,
+        "Nombre":  "CAQUETA",
+        "PaisCodigo":  170
+    },
+    {
+        "Codigo":  19,
+        "Nombre":  "CAUCA",
+        "PaisCodigo":  170
+    },
+    {
+        "Codigo":  20,
+        "Nombre":  "CESAR",
+        "PaisCodigo":  170
+    },
+    {
+        "Codigo":  23,
+        "Nombre":  "CORDOBA",
+        "PaisCodigo":  170
+    },
+    {
+        "Codigo":  25,
+        "Nombre":  "CUNDINAMARCA",
+        "PaisCodigo":  170
+    },
+    {
+        "Codigo":  27,
+        "Nombre":  "CHOCO",
+        "PaisCodigo":  170
+    },
+    {
+        "Codigo":  41,
+        "Nombre":  "HUILA",
+        "PaisCodigo":  170
+    },
+    {
+        "Codigo":  44,
+        "Nombre":  "LA GUAJIRA",
+        "PaisCodigo":  170
+    },
+    {
+        "Codigo":  47,
+        "Nombre":  "MAGDALENA",
+        "PaisCodigo":  170
+    },
+    {
+        "Codigo":  50,
+        "Nombre":  "META",
+        "PaisCodigo":  170
+    },
+    {
+        "Codigo":  52,
+        "Nombre":  "NARIÑO",
+        "PaisCodigo":  170
+    },
+    {
+        "Codigo":  54,
+        "Nombre":  "NORTE DE SANTANDER",
+        "PaisCodigo":  170
+    },
+    {
+        "Codigo":  63,
+        "Nombre":  "QUINDIO",
+        "PaisCodigo":  170
+    },
+    {
+        "Codigo":  66,
+        "Nombre":  "RISARALDA",
+        "PaisCodigo":  170
+    },
+    {
+        "Codigo":  68,
+        "Nombre":  "SANTANDER",
+        "PaisCodigo":  170
+    },
+    {
+        "Codigo":  70,
+        "Nombre":  "SUCRE",
+        "PaisCodigo":  170
+    },
+    {
+        "Codigo":  73,
+        "Nombre":  "TOLIMA",
+        "PaisCodigo":  170
+    },
+    {
+        "Codigo":  76,
+        "Nombre":  "VALLE DEL CAUCA",
+        "PaisCodigo":  170
+    },
+    {
+        "Codigo":  81,
+        "Nombre":  "ARAUCA",
+        "PaisCodigo":  170
+    },
+    {
+        "Codigo":  85,
+        "Nombre":  "CASANARE",
+        "PaisCodigo":  170
+    },
+    {
+        "Codigo":  86,
+        "Nombre":  "PUTUMAYO",
+        "PaisCodigo":  170
+    },
+    {
+        "Codigo":  88,
+        "Nombre":  "ARCHIPIÉLAGO DE SAN ANDRÉS PROVIDENCIA Y SANTA CATALINA",
+        "PaisCodigo":  170
+    },
+    {
+        "Codigo":  91,
+        "Nombre":  "AMAZONAS",
+        "PaisCodigo":  170
+    },
+    {
+        "Codigo":  94,
+        "Nombre":  "GUAINIA",
+        "PaisCodigo":  170
+    },
+    {
+        "Codigo":  95,
+        "Nombre":  "GUAVIARE",
+        "PaisCodigo":  170
+    },
+    {
+        "Codigo":  97,
+        "Nombre":  "VAUPES",
+        "PaisCodigo":  170
+    },
+    {
+        "Codigo":  99,
+        "Nombre":  "VICHADA",
+        "PaisCodigo":  170
+    }
+]

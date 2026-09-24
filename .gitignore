@@ -1,0 +1,8 @@
+.env
+**/bin/
+**/obj/
+.vs/
+*.user
+database/backups/
+artifacts/
+TestResults/

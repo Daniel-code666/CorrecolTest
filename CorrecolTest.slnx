@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="CorrecolTest.Application/CorrecolTest.Application.csproj" />
+  <Project Path="CorrecolTest.Domain/CorrecolTest.Domain.csproj" />
+  <Project Path="CorrecolTest.Infrastructure/CorrecolTest.Infrastructure.csproj" />
+  <Project Path="CorrecolTest.IntegrationTests/CorrecolTest.IntegrationTests.csproj" />
+  <Project Path="CorrecolTest.UnitTests/CorrecolTest.UnitTests.csproj" />
+  <Project Path="CorrecolTest/CorrecolTest.csproj" />
+</Solution>
